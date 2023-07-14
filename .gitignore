@@ -162,5 +162,5 @@ cython_debug/
 
 # My custom gitignore file types
 .vscode
-*.csv
+# *.csv
 .DS_Store
