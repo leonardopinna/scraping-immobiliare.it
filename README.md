@@ -20,7 +20,7 @@ Then the app will proceed and create a data.csv file in the app folder, which wi
 
 WARNING: when the app runs a second time, the previous data.csv file will be deleted, so if you want to keep your past search data, you should save the file with a different name or in a different folder.
 
-### Disclaimer
+## Disclaimer
 
 #### No affiliation
 
