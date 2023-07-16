@@ -60,7 +60,7 @@ try:
     max_page = main_soup.find_all(
         "div", class_="in-pagination__item")[-1].get_text()
 except:
-    max_page = 0
+    max_page = 1
 
 
 # Get the content of the announces
